@@ -4,7 +4,7 @@ It is a simple rails app that can be used to store car makes, models and year of
 
 ## Viewing
 
-You can check it out [here] (https://dry-springs-68540.herokuapp.com/). 
+You can check it out [here] (https://dry-springs-68540.herokuapp.com/) why 
 
 ## Feedback
 
